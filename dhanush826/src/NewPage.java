@@ -1,10 +1,10 @@
 import javax.swing.*;  
 import java.awt.*;  
   
-//create NewPage class to create a new page on which user will navigate  
+
 class NewPage extends JFrame  
 {  
-    //constructor  
+      
     NewPage()  
     {  
         setDefaultCloseOperation(javax.swing.  
